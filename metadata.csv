@@ -1,65 +1,65 @@
-name,code
-100 파이퍼스,pipers
-1776제임스 e 페퍼,jamesepepper
-고든,gordon
-그레이 구스,greygoose
-길비스,gilbeys
-깔루아,kahlua
-깔바도스,calvados
-듀어스 - 화이트 라벨,dewarswhite
-디사론노,disaronno
-딥에디 - 스위트 티,deepeddysweet
-딥에디 - 오리지널,deepeddyoriginal
-말리부,malibu
-메이커스 마크,makersmark
-몽키숄더,monkeyshoulder
-바카디 - 카르타 블랑카,bacardicartablanca
-바카디 모히또,bacardimojito
-발렌타인 - 12년,ballantine12
-발렌타인 - 파이니스트,ballantinefinest
-버팔로 트레이스,buffalotrace
-벨즈,bells
-볼스 피치,bolspeach
-봄베이 사파이어,bombay
-불렛 라이,bulleitrye
-불렛 버번,bulleitbuorbon
-블랙 앤 화이트,blackandwhite
-블랙바틀,blackbottle
-비피터,beefeater
-슈슈,xuxu
-스미노프 - 그린애플,smirnoffredgreen
-스미노프 - 레드,smirnoffred
-스카치 블루 - 인터내셔널,scotchblue
-스타리노 로제,starlinorose
-시바스 리갈 - 12년,chivasregal12
-싱글톤 - 더프타운 12년,singleton
-아페롤,aperol
-아페롤 스프리츠,aperolspritz
-앱솔루트,absolut
-앱솔루트 - 자몽,absolutgrape
-업타운 마가리타,uptown
-에반 윌리엄스,evanwilliams
-예거 마이스터,jagermeister
-옐로우로즈,yellowrose
-와일드 터키 - 101,wildturkey
-윈저,windsor
-잭다니엘,jackdaniel
-잭다니엘 허니,jackdanielhonney
-조니워커 - 블랙라벨,johnniewalkerblack
-짐빔 - 화이트라벨,jimbeamwhite
-칼라일,carlyle
-탈리스만,talisman
-탈리스커,talisker
-탱커레이,tanqueray
-파쏘아,passoa
-파이어볼,fireball
-팔리니,pallini
-패스포트,passport
-페이머스 그라우스,famousgrouse
-피치트리,peachtree
-핀란디아,finlandia
-하바나 클럽,havanaclub
-핸드릭스,hendricks
-호세쿠엘보,josecuervo
-호세쿠엘보 마가리타,josecuervomagarita
-화이트 레이크,whitelake
+name,name_eng,code,hash1,hash2,hash3,meta_image,back_image,text,url
+100 파이퍼스,100 Pipers,pipers,#승리,#꽃향,,,,,
+1776 제임스 e 페퍼 버번,1776 James E.Pepper Bourbon,jamesepepper,#독주,#견과류향,#역사가_오래된,,,"미국 독립 선언서가 발표된 1776년에 설립된 역사 깊은 증류소에서 만들어진 술입니다. 풍부한 맛을 즐길 수 있으며, 클래식 칵테일로 즐기기에 적합합니다.",https://jamesepepper.com/straight-bourbon-100-proof/
+고든스 진,Gordon's Gin,gordon,#베이스,#시원함,#가성비,,,세계에서 가장 많이 팔리는 진 중 하나입니다. 상쾌한 진토닉으로 마시기에 매우 좋습니다.,https://www.gordonsgin.com/en-row/home/
+그레이 구스,Grey Goose Vodka Original,greygoose,#럭셔리,#깨끗함,#견과류향,,,부드러운 겨울 밀과 프랑스 겐삭 지방의 물로 만들어진 보드카입니다.,https://www.greygoose.com/en-gl/
+길비스 보드카,Gilbey's Vodka,gilbeys,#가성비,#부드러움,#깔끔함,,,부드럽고 깔끔한 맛의 보드카입니다. 저렴하고 칵테일에 사용하기 좋기 때문에 홈 바에 잘 어울립니다.,
+깔루아,Kahlua,kahlua,#커피,#역사가_오래된,#깊은_풍미,,,전 세계에서 사랑받는 커피 리큐어 입니다. 다양한 커피 베이스의 칵테일에 활용할 수 있습니다.,https://www.kahlua.com/ko/products/original-coffee-liqueur/
+깔바도스,Calvados,calvados,#역사가_오래된,#사과,#우아함,,,프랑스 노르망디 지방에서 생산되는 사과 브랜디입니다. 풍부하고 우아한 맛이 어디에나 잘 어울립니다.,
+듀어스 - 화이트 라벨,Dewar's White Label,dewarswhite,#바닐라,#스파이시,#하이볼,,,부드럽고 상쾌한 맛의 블렌디드 스카치 위스키입니다. 하이볼 위스키에도 많이 활용됩니다.,dewars.com/double-aged-whiskies/dewars-white-label-whisky/
+디사론노,Disaronno,disaronno,#우아함,#꽃향,#고급스러움,,,독창적인 맛과 강력한 향을 가진 이탈리아의 리큐르입니다. 고급스러움과 우아한 매력을 가지고 있습니다.,https://www.disaronno.com/en/
+딥에디 - 스위트 티,Deep Eddy Sweet Tea Vodka,deepeddysweet,#상큼함,#찻잎,#꿀,,,유기농 찻잎을 베이스로 한 보드카입니다. 달콤한 상큼한 맛이 매력입니다.,https://deepeddyvodka.com/
+딥에디 - 오리지널,Deep Eddy Original Vodka,deepeddyoriginal,#부드러움,#옥수수,#깔끔함,,,글루텐 프리가 인증된 옥수수 100%를 사용한 보드카입니다. 10번의 증류를 거쳐 매우 깔끔하고 부드러운 맛이 납니다.,
+말리부,Malibu,malibu,#코코넛,#달달함,#칵테일베이스,,,코코넛으로 만든 세계적으로 인기 있는 술입니다. 단맛이 강해 다양한 칵테일에 활용됩니다.,https://www.maliburumdrinks.com/en/
+메이커스 마크,Maker's Mark,makersmark,#유니크_디자인,#카라멜,#바닐라,,,겨울 밀로 만들어져 부드러운 단맛이 매력적인 버번입니다. 붉은 왁스 실링이 유니크한 매력입니다.,https://www.makersmark.com/makers-mark
+몽키숄더,Monkey Shoulder,monkeyshoulder,#오렌지,#과일향,#바닐라,,,오로지 칵테일을 위해서 만들어진 위스키입니다. 균형감 있는 과일향과 부드러운 바닐라 향을 즐겨보세요.,https://www.monkeyshoulder.com/
+바카디 - 카르타 블랑카,Bacardi Carta Blanca,bacardicartablanca,#건강,#행운,#바닐라,,,"칵테일을 위한 럼으로, 모히토와 같은 클래식 럼 칵테일에 잘 어울립니다. 꽃과 과일 향이 납니다.",https://www.bacardi.com/our-rums/carta-blanca-rum/
+바카디 모히토,Bacardi Mojito,bacardimojito,#민트,#칵테일,#라임,,,탄산수만 섞으면 바로 모히토 칵테일로! 캔 형태로도 편하게 즐길 수 있는 완성품입니다.,
+발렌타인 - 12년,Ballantine's 12 Year Old,ballantine12,#꿀,#고급,#성장,,,대표적인 블렌디드 위스키 브랜드인 발렌타인의 대표적 제품입니다. 정교하고 균형있는 고급스러운 맛입니다.,
+발렌타인 - 파이니스트,Ballantine's Finest,ballantinefinest,#부드러움,#은은함,#산뜻함,,,블렌디드 위스키 브랜드인 발렌타인의 가장 기본이 되는 저렴한 제품입니다. 은은하고 산뜻한 맛입니다.,https://www.ballantines.com/en/range/ballantines-finest
+버팔로 트레이스,Buffalo Trace,buffalotrace,#깊음,#단단함,#풍부함,,,버팔로와 개척자의 강인한 정신을 담은 버번 위스키입니다. 깊고 부드러운 맛을 가지고 있습니다.,https://www.buffalotracedistillery.com/our-brands/buffalo-trace.html
+벨즈,Bell's,bells,#고소함,#역사가_오래된,#견과류향,,,영국에서 인기있는 블렌디드 스카치 위스키로 오랜 역사를 가지고 있습니다.,
+볼스 피치,Bols Peach,bolspeach,#복숭아,#역사가_오래된,#과일향,,,볼스는 역사 깊은 칵테일 브랜드입니다. 과일조각을 먹는 듯한 복숭아의 진한 향을 느껴보세요.,https://bols.com/products/bols-peach-liqueur
+봄베이 사파이어,Bombay Sapphire,bombay,#보타니컬,#솔잎,#과일,,,영롱한 파란 병이 특징적인 세계적인 진입니다. 다양한 지역에서 엄선한 10가지 식물이 들어있습니다.,https://www.bombaysapphire.com/products/bombay-sapphire/
+불렛 라이,Bulleit Rye,bulleitrye,#센티멘탈,#고소함,#꽃향,,,스트레이트 호밀 위스키로 풍부한 향이 특징입니다. 깔끔한 풍미가 오래 지속됩니다.,
+불렛 버번,Bulleit Bourbon,bulleitbuorbon,#메이플,#바닐라,#깨끗함,,,호밀 함량이 높아 유니크하면서도 깨끗하고 부드러운 마무리와 함께 스파이시한 맛도 가지고 있는 위스키입니다.,https://www.bulleit.com/whiskeys/bulleit-bourbon/
+블랙 앤 화이트,,blackandwhite,#꿀,#견과류,,,,,
+블랙바틀,,blackbottle,#신비함,#스파이시,,,,,
+비피터,,beefeater,#밸런스,#스파이시,#시트러스,,,,
+슈슈,,xuxu,#딸기,,,,,,
+스미노프 - 그린애플,,smirnoffredgreen,,,,,,,
+스미노프 - 레드,Smirnoff,smirnoffred,,,,,,3번의 증류와 10단계의 여과를 거쳐 정교하게 만들어졌습니다. 궁극의 부드러움과 강력한 풍미를 가지고 있습니다.,https://www.smirnoff.com/en-us
+스카치 블루 - 인터내셔널,,scotchblue,,,,,,,
+스타리노 로제,,starlinorose,,,,,,,
+시바스 리갈 - 12년,,chivasregal12,,,,,,,
+싱글톤 - 더프타운 12년,,singleton,#바닐라,#입문,,,,,
+아페롤,,aperol,#오렌지,,,,,,
+아페롤 스프리츠,,aperolspritz,#오렌지,,,,,,
+앱솔루트,,absolut,#베이스,#무취,#무향,,,,
+앱솔루트 - 자몽,,absolutgrape,#산뜻함,,,,,,
+업타운 마가리타,,uptown,#라임,,,,,,
+에반 윌리엄스,,evanwilliams,#바닐라,,,,,,
+예거 마이스터,,jagermeister,#허브,#축하,#건강,,,,
+옐로우로즈,,yellowrose,,,,,,,
+와일드 터키 - 101,,wildturkey,#바닐라,#스모키,#역사가_오래된,,,,
+윈저,,windsor,,,,,,,
+잭다니엘,,jackdaniel,#예술,#바닐라,,,,,
+잭다니엘 허니,,jackdanielhonney,#견과류,#꿀,,,,,
+조니워커 - 블랙라벨,Johnnie Walker,johnniewalkerblack,#부드러움,#스모키,#대표,,,세계적으로 인기있는 스카치 위스키 조니워커의대표적 상품입니다. 12년 숙성된 부드러운 위스키의 맛을 합리적인 가격에 즐길 수 있습니다.,https://www.johnniewalker.com/en-kr/our-whisky/johnnie-walker-colours/blue-label/
+짐빔 - 화이트라벨,,jimbeamwhite,#나무향,#바닐라,#대중적,,,,
+칼라일,,carlyle,,,,,,,
+탈리스만,,talisman,,,,,,,
+탈리스커,,talisker,#야성,#스모키,,,,,
+탱커레이,Tanqueray,tanqueray,#독특함,#혁신,#시원함,,,유니크한 녹색의 병이 특징적인 독창적인 매력의 진입니다. 상쾌한 진토닉과 잘어울리는 건조하고 선명한 진입니다.,https://www.tanqueray.com/en-gb
+파쏘아,,passoa,,,,,,,
+파이어볼,,fireball,#대중성,#시나몬,,,,,
+팔리니,,pallini,#레몬,,,,,,
+패스포트,,passport,#바닐라,,,,,,
+페이머스 그라우스,,famousgrouse,#카라멜,#가벼움,,,,,
+피치트리,,peachtree,#복숭아,#베이스,,,,,
+핀란디아,,finlandia,,,,,,,
+하바나 클럽,,havanaclub,#독특함,#온기,,,,,
+핸드릭스,,hendricks,#상큼함,,,,,,
+호세쿠엘보,,josecuervo,#오크향,#축제,,,,,
+호세쿠엘보 마가리타,,josecuervomagarita,#라임,,,,,,
+화이트 레이크,,whitelake,#청량,,,,,,
